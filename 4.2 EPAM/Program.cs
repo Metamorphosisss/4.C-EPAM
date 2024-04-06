@@ -25,4 +25,4 @@ for (int i = 0; i < width; i++)
         }
     }
 }
-Console.WriteLine("Сума min i max" + (min + max));
+Console.WriteLine("Сума min i max " + (min + max));
